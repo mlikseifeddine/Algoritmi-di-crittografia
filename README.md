@@ -24,3 +24,5 @@ class Person
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
+
+> Some quote
